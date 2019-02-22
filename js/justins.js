@@ -1,4 +1,4 @@
- var video_list      = ["video/ORWH.mp4", "video/crazylove.mp4", "video/WHlivee.mp4"
+ var video_list      = ["video/ORWH.mp4", "video/crazylove.mp4", "video/WHLivee.mp4"
                             ];
         var video_index     = 0;
         var video_player    = null;
